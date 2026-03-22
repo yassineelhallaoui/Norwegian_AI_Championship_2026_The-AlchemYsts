@@ -1,0 +1,14 @@
+# Core dependencies for running inference
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+pillow>=9.0.0
+onnxruntime-gpu>=1.15.0
+
+# Optional but recommended
+ensemble-boxes>=1.0.9
+
+# Training dependencies (not needed for inference)
+# ultralytics>=8.0.0
+# timm>=0.9.0
+# pyyaml

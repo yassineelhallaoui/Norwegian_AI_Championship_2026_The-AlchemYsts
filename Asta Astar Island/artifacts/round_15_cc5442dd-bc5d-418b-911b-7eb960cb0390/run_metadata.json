@@ -1,0 +1,85 @@
+{
+  "round_id": "cc5442dd-bc5d-418b-911b-7eb960cb0390",
+  "round_number": 15,
+  "model_source": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY/models",
+  "used_saved_query_dir": null,
+  "saved_query_counts": {
+    "0": 3,
+    "1": 3,
+    "2": 3,
+    "3": 3,
+    "4": 3
+  },
+  "additional_live_queries": 15,
+  "diagnostics": {
+    "ensemble_uncertainty": [
+      0.0005423193211037457,
+      0.0005190785517479189,
+      0.0005007316911312427,
+      0.0005553016529187529,
+      0.0005180075127944114
+    ],
+    "strategy": "regime_detection",
+    "regime": {
+      "expert_weights": {
+        "base": 0.08953707062393196,
+        "pooled": 0.08835769125367508,
+        "round_10": 1.1488764123547487e-08,
+        "round_11": 0.06818268281235028,
+        "round_12": 0.05728996046206508,
+        "round_13": 0.03728078097276964,
+        "round_1": 0.13473162106677244,
+        "round_2": 0.13781186271464185,
+        "round_3": 7.915447132788805e-13,
+        "round_4": 0.03479517424106095,
+        "round_5": 0.08160525465825436,
+        "round_6": 0.07422876619465965,
+        "round_7": 0.09530945067909145,
+        "round_8": 3.292417025275903e-05,
+        "round_9": 0.10083674866091874
+      },
+      "expert_scores": {
+        "base": -32.7457491042844,
+        "pooled": -32.759008591377125,
+        "round_10": -48.61454287366246,
+        "round_11": -33.018211225825404,
+        "round_12": -33.1922764424413,
+        "round_13": -33.62192390228643,
+        "round_1": -32.337117033063464,
+        "round_2": -32.31451239938716,
+        "round_3": -58.19743658710364,
+        "round_4": -33.690923134793984,
+        "round_5": -32.83850818550627,
+        "round_6": -32.93325008111755,
+        "round_7": -32.683272867309945,
+        "round_8": -40.65395007352622,
+        "round_9": -32.626898981478234
+      },
+      "query_signature": {
+        "query_count": 15,
+        "cell_count": 3375,
+        "class_frequencies": [
+          0.5478518518518518,
+          0.2005925925925926,
+          0.008888888888888889,
+          0.016296296296296295,
+          0.2154074074074074,
+          0.010962962962962963
+        ]
+      },
+      "likelihood_scale": 40.0,
+      "use_local_posterior": true,
+      "class_weights": [
+        0.9493178616741755,
+        1.0979056233583586,
+        1.198554560878731,
+        0.9025788903569152,
+        0.9258683974821393,
+        0.9579240935507211
+      ]
+    },
+    "query_update_divergence": 0.011472629100194986,
+    "fallback_activated": false
+  },
+  "submitted": true
+}

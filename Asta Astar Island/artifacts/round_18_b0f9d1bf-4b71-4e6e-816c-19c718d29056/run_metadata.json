@@ -1,0 +1,25 @@
+{
+  "round_id": "b0f9d1bf-4b71-4e6e-816c-19c718d29056",
+  "round_number": 18,
+  "model_source": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/models",
+  "used_saved_query_dir": null,
+  "saved_query_counts": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0
+  },
+  "additional_live_queries": 0,
+  "diagnostics": {
+    "ensemble_uncertainty": [
+      0.0005643620198472306,
+      0.0005442458552681023,
+      0.0005479249396627567,
+      0.0005720670996807915,
+      0.0005484268294974918
+    ],
+    "strategy": "ensemble_only"
+  },
+  "submitted": true
+}

@@ -1,0 +1,58 @@
+{
+  "num_historical_rounds": 22,
+  "config": {
+    "use_ensemble": true,
+    "use_regime_detection": true,
+    "regime_likelihood_scale": 40.0,
+    "enable_fallback": true
+  },
+  "ensemble": {
+    "num_base_models": 6,
+    "model_weights": {
+      "conservative_blend": 0.16661753223725712,
+      "flattened_blend": 0.16596494736102363,
+      "tree_heavy_blend": 0.16683456821841364,
+      "deep_trees": 0.16684576412282554,
+      "random_forest": 0.1670084231483736,
+      "gradient_boosting": 0.16672876491210636
+    },
+    "model_configs": [
+      {
+        "name": "conservative_blend",
+        "type": "blend",
+        "temperature": 1.0,
+        "validation_score": 0.10191752619676446
+      },
+      {
+        "name": "flattened_blend",
+        "type": "blend",
+        "temperature": 1.1,
+        "validation_score": 0.10584188032711825
+      },
+      {
+        "name": "tree_heavy_blend",
+        "type": "blend",
+        "temperature": 1.0,
+        "validation_score": 0.1006157739420431
+      },
+      {
+        "name": "deep_trees",
+        "type": "extra_trees",
+        "temperature": 1.0,
+        "validation_score": 0.10054866837224502
+      },
+      {
+        "name": "random_forest",
+        "type": "random_forest",
+        "temperature": 1.05,
+        "validation_score": 0.09957423675137349
+      },
+      {
+        "name": "gradient_boosting",
+        "type": "gradient_boosting",
+        "temperature": 1.0,
+        "validation_score": 0.1012501560778889
+      }
+    ]
+  }
+}

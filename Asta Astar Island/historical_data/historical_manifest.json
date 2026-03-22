@@ -1,0 +1,740 @@
+{
+  "rounds_seen": [
+    {
+      "round_number": 4,
+      "round_id": "8e839974-b13b-407b-a5e7-fc749d877195",
+      "status": "completed"
+    },
+    {
+      "round_number": 5,
+      "round_id": "fd3c92ff-3178-4dc9-8d9b-acf389b3982b",
+      "status": "completed"
+    },
+    {
+      "round_number": 6,
+      "round_id": "ae78003a-4efe-425a-881a-d16a39bca0ad",
+      "status": "completed"
+    },
+    {
+      "round_number": 7,
+      "round_id": "36e581f1-73f8-453f-ab98-cbe3052b701b",
+      "status": "completed"
+    },
+    {
+      "round_number": 8,
+      "round_id": "c5cdf100-a876-4fb7-b5d8-757162c97989",
+      "status": "completed"
+    },
+    {
+      "round_number": 9,
+      "round_id": "2a341ace-0f57-4309-9b89-e59fe0f09179",
+      "status": "completed"
+    },
+    {
+      "round_number": 10,
+      "round_id": "75e625c3-60cb-4392-af3e-c86a98bde8c2",
+      "status": "completed"
+    },
+    {
+      "round_number": 11,
+      "round_id": "324fde07-1670-4202-b199-7aa92ecb40ee",
+      "status": "completed"
+    },
+    {
+      "round_number": 12,
+      "round_id": "795bfb1f-54bd-4f39-a526-9868b36f7ebd",
+      "status": "completed"
+    },
+    {
+      "round_number": 13,
+      "round_id": "7b4bda99-6165-4221-97cc-27880f5e6d95",
+      "status": "completed"
+    },
+    {
+      "round_number": 14,
+      "round_id": "d0a2c894-2162-4d49-86cf-435b9013f3b8",
+      "status": "completed"
+    },
+    {
+      "round_number": 15,
+      "round_id": "cc5442dd-bc5d-418b-911b-7eb960cb0390",
+      "status": "completed"
+    },
+    {
+      "round_number": 16,
+      "round_id": "8f664aed-8839-4c85-bed0-77a2cac7c6f5",
+      "status": "completed"
+    },
+    {
+      "round_number": 17,
+      "round_id": "3eb0c25d-28fa-48ca-b8e1-fc249e3918e9",
+      "status": "completed"
+    },
+    {
+      "round_number": 18,
+      "round_id": "b0f9d1bf-4b71-4e6e-816c-19c718d29056",
+      "status": "completed"
+    },
+    {
+      "round_number": 19,
+      "round_id": "597e60cf-d1a1-4627-ac4d-2a61da68b6df",
+      "status": "completed"
+    },
+    {
+      "round_number": 20,
+      "round_id": "fd82f643-15e2-40e7-9866-8d8f5157081c",
+      "status": "completed"
+    },
+    {
+      "round_number": 21,
+      "round_id": "b3a0be6b-b48b-419d-916a-b7a77fa58c4d",
+      "status": "completed"
+    },
+    {
+      "round_number": 22,
+      "round_id": "a8be24e1-bd48-49bb-aa46-c5593da79f6f",
+      "status": "completed"
+    },
+    {
+      "round_number": 23,
+      "round_id": "93c39605-628f-4706-abd9-08582f8b61d7",
+      "status": "active"
+    }
+  ],
+  "rounds_synced": [
+    {
+      "round_number": 4,
+      "round_id": "8e839974-b13b-407b-a5e7-fc749d877195",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_4_8e839974-b13b-407b-a5e7-fc749d877195",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": 53.9146
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": 57.0615
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": 53.5749
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": 53.0344
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": 57.5284
+        }
+      ]
+    },
+    {
+      "round_number": 5,
+      "round_id": "fd3c92ff-3178-4dc9-8d9b-acf389b3982b",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_5_fd3c92ff-3178-4dc9-8d9b-acf389b3982b",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": 77.8147
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": 76.0076
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": 78.0195
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": 78.7631
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": 80.6654
+        }
+      ]
+    },
+    {
+      "round_number": 6,
+      "round_id": "ae78003a-4efe-425a-881a-d16a39bca0ad",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_6_ae78003a-4efe-425a-881a-d16a39bca0ad",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": 59.7499
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": 60.6521
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": 62.5516
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": 62.533
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": 57.7055
+        }
+      ]
+    },
+    {
+      "round_number": 7,
+      "round_id": "36e581f1-73f8-453f-ab98-cbe3052b701b",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_7_36e581f1-73f8-453f-ab98-cbe3052b701b",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": 62.2901
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": 65.8444
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": 67.7581
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": 64.4211
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": 67.8439
+        }
+      ]
+    },
+    {
+      "round_number": 8,
+      "round_id": "c5cdf100-a876-4fb7-b5d8-757162c97989",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_8_c5cdf100-a876-4fb7-b5d8-757162c97989",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": 92.9222
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": 94.2039
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": 93.671
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": 94.6747
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": 93.3108
+        }
+      ]
+    },
+    {
+      "round_number": 9,
+      "round_id": "2a341ace-0f57-4309-9b89-e59fe0f09179",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_9_2a341ace-0f57-4309-9b89-e59fe0f09179",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": 91.2471
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": 91.4175
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": 91.0223
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": 91.9484
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": 91.6285
+        }
+      ]
+    },
+    {
+      "round_number": 10,
+      "round_id": "75e625c3-60cb-4392-af3e-c86a98bde8c2",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_10_75e625c3-60cb-4392-af3e-c86a98bde8c2",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": 86.0059
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": 87.3981
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": 86.4159
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": 88.3428
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": 87.5563
+        }
+      ]
+    },
+    {
+      "round_number": 11,
+      "round_id": "324fde07-1670-4202-b199-7aa92ecb40ee",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_11_324fde07-1670-4202-b199-7aa92ecb40ee",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": null
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": null
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": null
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": null
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": null
+        }
+      ]
+    },
+    {
+      "round_number": 12,
+      "round_id": "795bfb1f-54bd-4f39-a526-9868b36f7ebd",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_12_795bfb1f-54bd-4f39-a526-9868b36f7ebd",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": null
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": null
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": null
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": null
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": null
+        }
+      ]
+    },
+    {
+      "round_number": 13,
+      "round_id": "7b4bda99-6165-4221-97cc-27880f5e6d95",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_13_7b4bda99-6165-4221-97cc-27880f5e6d95",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": null
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": null
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": null
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": null
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": null
+        }
+      ]
+    },
+    {
+      "round_number": 14,
+      "round_id": "d0a2c894-2162-4d49-86cf-435b9013f3b8",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_14_d0a2c894-2162-4d49-86cf-435b9013f3b8",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": 82.4027
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": 81.0951
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": 83.1357
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": 81.2117
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": 81.1963
+        }
+      ]
+    },
+    {
+      "round_number": 15,
+      "round_id": "cc5442dd-bc5d-418b-911b-7eb960cb0390",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_15_cc5442dd-bc5d-418b-911b-7eb960cb0390",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": 91.6068
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": 91.1601
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": 89.8275
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": 91.4128
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": 90.7347
+        }
+      ]
+    },
+    {
+      "round_number": 16,
+      "round_id": "8f664aed-8839-4c85-bed0-77a2cac7c6f5",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_16_8f664aed-8839-4c85-bed0-77a2cac7c6f5",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": 81.5573
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": 81.7568
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": 84.8064
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": 82.6769
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": 83.0479
+        }
+      ]
+    },
+    {
+      "round_number": 17,
+      "round_id": "3eb0c25d-28fa-48ca-b8e1-fc249e3918e9",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_17_3eb0c25d-28fa-48ca-b8e1-fc249e3918e9",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": 88.7364
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": 89.8612
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": 88.3679
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": 88.0859
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": 86.8592
+        }
+      ]
+    },
+    {
+      "round_number": 18,
+      "round_id": "b0f9d1bf-4b71-4e6e-816c-19c718d29056",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_18_b0f9d1bf-4b71-4e6e-816c-19c718d29056",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": 39.6314
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": 44.3727
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": 42.8483
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": 58.1088
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": 36.8057
+        }
+      ]
+    },
+    {
+      "round_number": 19,
+      "round_id": "597e60cf-d1a1-4627-ac4d-2a61da68b6df",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_19_597e60cf-d1a1-4627-ac4d-2a61da68b6df",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": 94.8698
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": 95.0677
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": 94.8217
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": 95.029
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": 94.7167
+        }
+      ]
+    },
+    {
+      "round_number": 20,
+      "round_id": "fd82f643-15e2-40e7-9866-8d8f5157081c",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_20_fd82f643-15e2-40e7-9866-8d8f5157081c",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": 90.9594
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": 91.3448
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": 90.9636
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": 92.033
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": 92.3878
+        }
+      ]
+    },
+    {
+      "round_number": 21,
+      "round_id": "b3a0be6b-b48b-419d-916a-b7a77fa58c4d",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_21_b3a0be6b-b48b-419d-916a-b7a77fa58c4d",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": 83.5886
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": 85.3461
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": 82.5404
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": 84.6381
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": 83.5439
+        }
+      ]
+    },
+    {
+      "round_number": 22,
+      "round_id": "a8be24e1-bd48-49bb-aa46-c5593da79f6f",
+      "status": "completed",
+      "output_dir": "/mnt/YassY_Dev/YassY_The_Alchemyst/999-iYassY/The_AlchemYst_AI-Competitions/2026/Norwegian_AI_Championship/Main_events/Lab/Astar_Astar-Island/Code_YassY_v2/historical_data/round_22_a8be24e1-bd48-49bb-aa46-c5593da79f6f",
+      "seed_results": [
+        {
+          "seed_index": 0,
+          "analysis_saved": true,
+          "score": 81.4821
+        },
+        {
+          "seed_index": 1,
+          "analysis_saved": true,
+          "score": 77.7441
+        },
+        {
+          "seed_index": 2,
+          "analysis_saved": true,
+          "score": 81.9805
+        },
+        {
+          "seed_index": 3,
+          "analysis_saved": true,
+          "score": 80.5094
+        },
+        {
+          "seed_index": 4,
+          "analysis_saved": true,
+          "score": 80.3416
+        }
+      ]
+    }
+  ],
+  "rounds_pending_ground_truth": [
+    {
+      "round_number": 23,
+      "round_id": "93c39605-628f-4706-abd9-08582f8b61d7",
+      "status": "active"
+    }
+  ]
+}

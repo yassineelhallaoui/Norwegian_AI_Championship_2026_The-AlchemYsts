@@ -1,0 +1,122 @@
+{
+  "rules": [
+    {
+      "id": "invoice_structure",
+      "patterns": [
+        "invoice",
+        "faktura"
+      ],
+      "rule": "Invoice requires orders array with orderLines inside",
+      "confidence": 0.9
+    },
+    {
+      "id": "employee_department",
+      "patterns": [
+        "employee",
+        "ansatt",
+        "mitarbeiter"
+      ],
+      "rule": "Employee requires department.id field",
+      "confidence": 0.9
+    },
+    {
+      "id": "voucher_postings",
+      "patterns": [
+        "voucher",
+        "bilag",
+        "journal"
+      ],
+      "rule": "Voucher requires postings with account as {id: number}",
+      "confidence": 0.9
+    },
+    {
+      "id": "payment_query_params",
+      "patterns": [
+        "payment",
+        "betaling",
+        "payment"
+      ],
+      "rule": "Invoice payment requires query params: paymentDate, paymentTypeId, paidAmount",
+      "confidence": 0.9
+    },
+    {
+      "id": "supplier_incoming",
+      "patterns": [
+        "supplier",
+        "leverandor",
+        "lieferant"
+      ],
+      "rule": "Supplier invoice uses /incomingInvoice endpoint with invoiceHeader",
+      "confidence": 0.9
+    },
+    {
+      "id": "german_employee",
+      "patterns": [
+        "Mitarbeiter",
+        "Angestellter"
+      ],
+      "rule": "German: Employee creation - strip employmentDetails, use nationalIdentityNumber",
+      "confidence": 0.85
+    },
+    {
+      "id": "french_invoice",
+      "patterns": [
+        "facture",
+        "cr\u00e9er facture"
+      ],
+      "rule": "French: Invoice - client means customer, use orders array",
+      "confidence": 0.85
+    },
+    {
+      "id": "german_voucher",
+      "patterns": [
+        "Buchung",
+        "Journalbuchung",
+        "Monatsabschluss"
+      ],
+      "rule": "German: Voucher uses /ledger/voucher, requires date and postings",
+      "confidence": 0.85
+    },
+    {
+      "id": "portuguese_payment",
+      "patterns": [
+        "pagamento",
+        "registrar pagamento"
+      ],
+      "rule": "Portuguese: Payment - data de pagamento is paymentDate",
+      "confidence": 0.85
+    },
+    {
+      "id": "norwegian_travel",
+      "patterns": [
+        "reiserekning",
+        "reisekostnad"
+      ],
+      "rule": "Norwegian: Travel expense uses /travelExpense with costs array",
+      "confidence": 0.85
+    },
+    {
+      "id": "german_travel",
+      "patterns": [
+        "Reisekosten",
+        "Reisekostenabrechnung"
+      ],
+      "rule": "German: Travel expense - Tagessatz is perDiem, Auslagen is costs",
+      "confidence": 0.85
+    },
+    {
+      "id": "bank_account",
+      "patterns": [
+        "bankkontonummer",
+        "bank account",
+        "bankkonto"
+      ],
+      "rule": "Bank account errors require remediation via /ledger/account",
+      "confidence": 0.8
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "source": "nm_ai_2026"
+  }
+}

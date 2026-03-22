@@ -2,3 +2,19 @@
 .env
 **/__pycache__/
 *.pyc
+
+# Ignore large model files
+*.joblib
+*.pkl
+*.pt
+*.pth
+*.onnx
+*.h5
+*.safetensors
+
+# Ignore large weight files in submission (but keep code)
+submission/**/*.pt
+submission/**/*.onnx
+submission/**/*.pth
+submission/**/*.zip
+*.zip

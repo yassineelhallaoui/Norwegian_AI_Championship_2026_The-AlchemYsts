@@ -1,0 +1,16 @@
+{
+  "_description": "Default configuration for inference",
+  "_note": "These are fallback values. The actual inference uses settings.json in the solution folder",
+  
+  "weights": [],
+  "imgsz": 1280,
+  "conf": 0.01,
+  "iou": 0.6,
+  "max_det": 300,
+  "half": true,
+  "augment": false,
+  "agnostic_nms": false,
+  "use_wbf": true,
+  "wbf_iou": 0.55,
+  "wbf_skip_box_thr": 0.0001
+}
